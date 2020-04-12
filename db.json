@@ -1,8 +1,8 @@
 {
-  "confirm": "40",
-  "todayConfirm": "7",
-  "todayDeath": "0",
-  "totalDeath": "3",
-  "recovered": "2",
+  "confirm":40,
+  "todayConfirm":50,
+  "todayDeath":3,
+  "totalDeath":3,
+  "recovered":4,
   "date": "(၁၂-၄-၂၀၂၀) ရက်နေ့၊ နံနက် ( ၂:၀၀ ) နာရီ"
 }
